@@ -1,1 +1,2 @@
 Added to file 1
+This is a good file
